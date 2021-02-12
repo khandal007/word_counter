@@ -1,5 +1,12 @@
 # word_counter
 
+This project is built on
+
+- Language -> Javascript
+- Web Framework -> Express.js
+- ORM -> Sequelize
+- Database -> MySQL
+
 Steps for Installation:-
 
 1. Firstly, make clone of the repository.
