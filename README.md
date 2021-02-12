@@ -4,7 +4,7 @@ Steps for Installation:-
 
 1. Firstly, make clone the repository.
 
-2. Then in the terminal run the command "docker build . -t himansh007/word-counter".
+2. Open terminal in the project directory and run the command "docker build . -t himansh007/word-counter".
 
 3. After run docker compose from the command "sudo docker-compose up".
 
